@@ -2,7 +2,7 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // ECE369 - Computer Architecture
-// 
+// Name: Andrew Camps
 // Module - ALU32Bit.v
 // Description - 32-Bit wide arithmetic logic unit (ALU).
 //

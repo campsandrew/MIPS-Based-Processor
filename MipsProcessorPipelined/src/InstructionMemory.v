@@ -2,7 +2,7 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // ECE369 - Computer Architecture
-// Andrew Camps
+// Name: Andrew Camps
 // Module - InstructionMemory.v
 // Description - 32-Bit wide instruction memory.
 //

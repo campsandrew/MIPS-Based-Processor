@@ -1,6 +1,7 @@
 `timescale 1ns / 1ps
 
-// Andrew Camps
+// ECE369 - Computer Architecture
+// Name: Andrew Camps
 
 module SevenSegment(numin, segout);
     input	[3:0] numin;

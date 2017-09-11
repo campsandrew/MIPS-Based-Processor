@@ -1,5 +1,6 @@
 `timescale 1ns / 1ps
-// Andrew Camps
+// ECE369 - Computer Architecture
+// Name: Andrew Camps
 
 module ALUController(ALUOp, FunctionCode, ALUControl, WDataSel,HWrite, LWrite, HLRead, HiSel, LoSel, AddSubSel, HLRegSel, Add, RegWriteSel, JumpRa, JR_Flush);
     input [3:0] ALUOp;

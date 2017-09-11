@@ -2,7 +2,7 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // ECE369 - Computer Architecture
-// Andrew Camps
+// Name: Andrew Camps
 // Module - pc_register.v
 // Description - 32-Bit program counter (PC) register.
 //

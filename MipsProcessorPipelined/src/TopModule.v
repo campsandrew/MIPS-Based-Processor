@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-//Andrew Camps
+//Name: Andrew Camps
 
 
 module TopModule(Clk, Reset, NumberA, NumberB, out7, en_out);

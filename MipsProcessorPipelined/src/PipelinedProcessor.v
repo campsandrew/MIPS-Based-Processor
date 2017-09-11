@@ -1,6 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Names: Andrew Camps
+// ECE369 - Computer Architecture
+// Name: Andrew Camps
 // Create Date: 10/28/2016 01:36:57 AM
 // Module Name: PipelinedProcessor
 

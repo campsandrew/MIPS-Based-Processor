@@ -1,22 +1,8 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
+// Name: Andrew Camps
 // Create Date: 10/23/2016 07:29:09 PM
-// Design Name: 
 // Module Name: TopModule_tb
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
 //////////////////////////////////////////////////////////////////////////////////
 
 
