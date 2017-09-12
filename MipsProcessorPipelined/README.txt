@@ -37,6 +37,6 @@ rotr			sra
 srav			seb
 sltiu			sltu
 
-All of these instruction definitions can be found a mips
+All of these instruction definitions can be found in a mips
 instruction manualy 
 
