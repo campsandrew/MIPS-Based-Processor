@@ -10,10 +10,10 @@ There are 54 MIPS instructions implemented into this processor
 
 INSTRUCTIONS:
 add				addiu
-addi			sub
+addi			  sub
 mul				mult
-multu			madd
-madd			msub
+multu			  madd
+madd			  msub
 lw				sw
 sb				lh
 lb				sh
@@ -22,7 +22,7 @@ mfhi			mflo
 lui				bgez
 beq				blez
 bne				bgtz
-bltz			j
+bltz			  j
 jr				jal
 and				andi
 or				nor
